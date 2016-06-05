@@ -16,7 +16,7 @@ baseurl: /antoncbn.github.io
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-78812731-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "Anton Cabon"
-title: "{ Anton Cabon }"
+author: "AntonCabon"
+title: "{ AntonCabon }"
 description: "Blog and website of Anton Cabon, blogging mainly for tech. Opinions expressed are mine."
 keywords: "anton, cbn, personal, jekyll, theme, cabon, antoncabon"
 favicon: "/img/favicon.ico"
@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Welcome to Anton Cabon Blog"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -147,9 +147,9 @@ social:
   - title: "twitter"
     url: "https://twitter.com/antoncabon"
   - title: "github"
-    url: "https://github.com/antoncbn.github.io"
+    url: "https://github.com/antoncbn"
   - title: "paypal"
-    url: "https://antoncbn.github.io/"
+    url: "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Y58F7K7QLBCUE&lc=ZA&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
   - title: "rss"
     url: "/feed.xml"
 
